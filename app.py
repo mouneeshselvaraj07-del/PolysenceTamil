@@ -4,6 +4,7 @@ import random
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 try:
     from groq import Groq as GroqClient
@@ -914,18 +915,20 @@ elif st.session_state.screen == "game":
     w = st.session_state.selected_word
 
     if not st.session_state.questions:
-        with st.spinner("✨ Preparing quiz…"):
+        with st.spinner("⚡ Generating quiz questions…"):
             senses = w["senses"]
             sense_pool = [senses[i % len(senses)] for i in range(NUM_QUESTIONS)]
             random.shuffle(sense_pool)
-            qs = []
-            for i, sense in enumerate(sense_pool):
+
+            def _gen(sense):
                 q = generate_question(w, sense, validate=False)
                 if q:
                     q["sense"] = sense
-                    qs.append(q)
-                if len(qs) >= NUM_QUESTIONS:
-                    break
+                return q
+
+            with ThreadPoolExecutor(max_workers=NUM_QUESTIONS) as ex:
+                results = list(ex.map(_gen, sense_pool))
+            qs = [r for r in results if r]
 
         if not qs:
             st.error("❌ Could not generate questions. Please try again.")
@@ -1074,14 +1077,18 @@ elif st.session_state.screen == "drag_game":
 
     # ── Generate questions ──────────────────────────────────────────────────
     if not st.session_state.drag_questions:
-        with st.spinner("✨ Preparing Drag & Drop challenges…"):
+        with st.spinner("⚡ Generating Drag & Drop questions…"):
             senses = w["senses"]
-            dqs    = []
-            for i, sense in enumerate(senses):
+
+            def _gen_drag(sense):
                 q = generate_question(w, sense, validate=False)
                 if q:
                     q["sense"] = sense
-                    dqs.append(q)
+                return q
+
+            with ThreadPoolExecutor(max_workers=len(senses)) as ex:
+                results = list(ex.map(_gen_drag, senses))
+            dqs = [r for r in results if r]
         if not dqs:
             st.error("❌ Could not generate questions.")
             if st.button("← Back"):
