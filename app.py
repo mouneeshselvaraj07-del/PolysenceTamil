@@ -180,7 +180,7 @@ GROQ_API_KEY = "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"
 # ════════════════════════════════════════════════════
 
 GROQ_MODEL    = "llama-3.3-70b-versatile"
-NUM_QUESTIONS = 10
+NUM_QUESTIONS = 5
 
 
 # ──────────────────────────── Dataset ─────────────────────────────────────────
@@ -914,15 +914,13 @@ elif st.session_state.screen == "game":
     w = st.session_state.selected_word
 
     if not st.session_state.questions:
-        with st.spinner("✨ Preparing 10-question quiz with 2-stage HITL validation…"):
+        with st.spinner("✨ Preparing quiz…"):
             senses = w["senses"]
             sense_pool = [senses[i % len(senses)] for i in range(NUM_QUESTIONS)]
             random.shuffle(sense_pool)
             qs = []
             for i, sense in enumerate(sense_pool):
-                if i > 0:
-                    time.sleep(1.5)
-                q = generate_question(w, sense, validate=True)
+                q = generate_question(w, sense, validate=False)
                 if q:
                     q["sense"] = sense
                     qs.append(q)
@@ -1076,13 +1074,11 @@ elif st.session_state.screen == "drag_game":
 
     # ── Generate questions ──────────────────────────────────────────────────
     if not st.session_state.drag_questions:
-        with st.spinner("✨ Preparing Drag & Drop challenges with HITL validation…"):
+        with st.spinner("✨ Preparing Drag & Drop challenges…"):
             senses = w["senses"]
             dqs    = []
             for i, sense in enumerate(senses):
-                if i > 0:
-                    time.sleep(1.5)
-                q = generate_question(w, sense, validate=True)
+                q = generate_question(w, sense, validate=False)
                 if q:
                     q["sense"] = sense
                     dqs.append(q)
