@@ -1,0 +1,497 @@
+{
+  "words": [
+    {
+      "word": "படி",
+      "transliteration": "padi",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to read", "meaning_ta": "வாசிக்க", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "staircase / step", "meaning_ta": "படிக்கட்டு", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "a measure (unit)", "meaning_ta": "அளவு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கல்",
+      "transliteration": "kal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "stone / rock", "meaning_ta": "கல்லு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to learn", "meaning_ta": "கற்றுக்கொள்ள", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "ஆறு",
+      "transliteration": "aaru",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "six (number)", "meaning_ta": "ஆறு எண்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "river", "meaning_ta": "நதி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "to cool down / comfort", "meaning_ta": "ஆறுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "திங்கள்",
+      "transliteration": "thingal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "Monday", "meaning_ta": "திங்கட்கிழமை", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "moon", "meaning_ta": "சந்திரன்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "month", "meaning_ta": "மாதம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "மண்",
+      "transliteration": "man",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "soil / earth", "meaning_ta": "மண்ணு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "fragrance / smell", "meaning_ta": "வாசனை", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "வெட்டு",
+      "transliteration": "vettu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to cut", "meaning_ta": "வெட்டுதல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "a wound / cut mark", "meaning_ta": "காயம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "தலை",
+      "transliteration": "thalai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "head (body part)", "meaning_ta": "தலை உறுப்பு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "leader / chief", "meaning_ta": "தலைவர்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "top / beginning", "meaning_ta": "மேல் / முதல்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "இரவு",
+      "transliteration": "iravu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "night / nighttime", "meaning_ta": "இரவு நேரம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to beg / ask for alms", "meaning_ta": "இரத்தல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "அடி",
+      "transliteration": "adi",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "foot / base / bottom", "meaning_ta": "பாதம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to hit / beat / strike", "meaning_ta": "அடிக்க", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "a unit of length (foot)", "meaning_ta": "நீள அளவு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கை",
+      "transliteration": "kai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "hand (body part)", "meaning_ta": "கரம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "handle / grip", "meaning_ta": "பிடி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "branch of a tree", "meaning_ta": "கிளை", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "முகம்",
+      "transliteration": "mugam",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "face (body part)", "meaning_ta": "வதனம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "front side / entrance", "meaning_ta": "முன்பக்கம்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "appearance / expression", "meaning_ta": "தோற்றம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கண்",
+      "transliteration": "kan",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "eye (body part)", "meaning_ta": "விழி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "hole / opening", "meaning_ta": "துவாரம்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "knot in wood / bamboo", "meaning_ta": "கணு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "வாய்",
+      "transliteration": "vaai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "mouth (body part)", "meaning_ta": "வாயிடம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "opening / entrance", "meaning_ta": "வாசல்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "to suit / to be appropriate", "meaning_ta": "பொருந்துதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "பார்",
+      "transliteration": "paar",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to see / to look", "meaning_ta": "பார்க்க", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "earth / world / land", "meaning_ta": "பூமி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "to take care / to look after", "meaning_ta": "கவனிக்க", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "வீடு",
+      "transliteration": "veedu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "house / home", "meaning_ta": "இல்லம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "liberation / salvation (moksha)", "meaning_ta": "முக்தி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "தீ",
+      "transliteration": "thee",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "fire / flame", "meaning_ta": "அக்னி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "bad / evil / harmful", "meaning_ta": "தீமை", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "ஒளி",
+      "transliteration": "oli",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "light / brightness", "meaning_ta": "வெளிச்சம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to hide / to conceal", "meaning_ta": "மறைக்க", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "மலை",
+      "transliteration": "malai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "mountain / hill", "meaning_ta": "மலைப்பகுதி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "garland / flower string", "meaning_ta": "மாலை", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "evening / dusk", "meaning_ta": "மாலை நேரம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "பால்",
+      "transliteration": "paal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "milk", "meaning_ta": "பசும்பால்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "gender / sex", "meaning_ta": "பாலினம்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "part / portion / side", "meaning_ta": "பகுதி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "நூல்",
+      "transliteration": "nool",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "thread / yarn", "meaning_ta": "இழை", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "book / text / scripture", "meaning_ta": "புத்தகம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "பட்டு",
+      "transliteration": "pattu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "silk (fabric)", "meaning_ta": "பட்டு துணி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to touch / to be affected by", "meaning_ta": "தொடுதல்", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "song / melody", "meaning_ta": "பாடல்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "ஊர்",
+      "transliteration": "oor",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "town / village / place", "meaning_ta": "கிராமம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to crawl / to creep", "meaning_ta": "ஊர்வது", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "விழி",
+      "transliteration": "vizhi",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "eye / pupil", "meaning_ta": "கண்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to fall / to drop", "meaning_ta": "விழுதல்", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "to wake up / to be awake", "meaning_ta": "விழிப்பு", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "சொல்",
+      "transliteration": "sol",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "word / term", "meaning_ta": "வார்த்தை", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to say / to tell / to speak", "meaning_ta": "பேசுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "நடு",
+      "transliteration": "nadu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "middle / centre", "meaning_ta": "மையம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to plant / to sow", "meaning_ta": "நடவு செய்ய", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "country / region", "meaning_ta": "நாடு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "பிடி",
+      "transliteration": "pidi",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to catch / to hold / to grasp", "meaning_ta": "பிடிக்க", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "handle / grip", "meaning_ta": "கைப்பிடி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "a handful (measure)", "meaning_ta": "கைப்பிடி அளவு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "பூ",
+      "transliteration": "poo",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "flower / blossom", "meaning_ta": "மலர்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to blossom / to bloom", "meaning_ta": "மலர்வது", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "zero (colloquial)", "meaning_ta": "சுழியம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கால்",
+      "transliteration": "kaal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "leg / foot (body part)", "meaning_ta": "கால் உறுப்பு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "one quarter / a fourth", "meaning_ta": "கால் பகுதி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "wind / air (poetic)", "meaning_ta": "காற்று", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "தோல்",
+      "transliteration": "thol",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "skin / hide / leather", "meaning_ta": "தோலி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to lose / to be defeated", "meaning_ta": "தோற்றல்", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "peel / bark / rind", "meaning_ta": "தோலுரித்தல்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "நாடு",
+      "transliteration": "naadu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "country / nation", "meaning_ta": "தேசம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to seek / to search / to desire", "meaning_ta": "தேடுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "இரு",
+      "transliteration": "iru",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to be / to exist / to stay", "meaning_ta": "இருத்தல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "two (number)", "meaning_ta": "இரண்டு எண்", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "dark / darkness", "meaning_ta": "இருள்", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "எழு",
+      "transliteration": "ezhu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "seven (number)", "meaning_ta": "ஏழு எண்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to rise / to get up", "meaning_ta": "எழுதல்", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "to write", "meaning_ta": "எழுதுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "விடு",
+      "transliteration": "vidu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to leave / to release / to let go", "meaning_ta": "விடுவித்தல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "house / dwelling (archaic)", "meaning_ta": "வீடு", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "to dawn / day breaking", "meaning_ta": "விடியுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "வெள்ளை",
+      "transliteration": "vellai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "white colour", "meaning_ta": "வெண்மை", "pos": "adjective"},
+        {"sense_id": 2, "meaning_en": "flood / overflow of water", "meaning_ta": "வெள்ளப்பெருக்கு", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "silver (archaic)", "meaning_ta": "வெள்ளி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கோடு",
+      "transliteration": "kodu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "line / stripe / streak", "meaning_ta": "கோடு வரைதல்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "horn of an animal", "meaning_ta": "விலங்கின் கொம்பு", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "crore (ten million)", "meaning_ta": "கோடி எண்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "பண்",
+      "transliteration": "pan",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "musical note / melody / tune", "meaning_ta": "இசை", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "to do / to make / to perform", "meaning_ta": "செய்தல்", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "gold (archaic/poetic)", "meaning_ta": "தங்கம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "இனி",
+      "transliteration": "ini",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "sweet / pleasant", "meaning_ta": "இனிமை", "pos": "adjective"},
+        {"sense_id": 2, "meaning_en": "hereafter / from now on", "meaning_ta": "இனிமேல்", "pos": "adverb"}
+      ]
+    },
+    {
+      "word": "கொடு",
+      "transliteration": "kodu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to give / to offer", "meaning_ta": "வழங்குதல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "cruel / harsh / severe", "meaning_ta": "கொடுமை", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "காடு",
+      "transliteration": "kaadu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "forest / jungle", "meaning_ta": "வனம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "cremation ground", "meaning_ta": "சுடுகாடு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "நல்",
+      "transliteration": "nal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "good / virtuous / noble", "meaning_ta": "நன்மை", "pos": "adjective"},
+        {"sense_id": 2, "meaning_en": "to give / to bestow (archaic)", "meaning_ta": "வழங்குதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "இலை",
+      "transliteration": "ilai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "leaf of a plant", "meaning_ta": "தாவர இலை", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "banana leaf plate for eating", "meaning_ta": "சாப்பிட பயன்படும் இலை", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "வேர்",
+      "transliteration": "ver",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "root of a plant", "meaning_ta": "தாவர வேர்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "origin / source / foundation", "meaning_ta": "அடிப்படை", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கதை",
+      "transliteration": "kathai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "story / tale", "meaning_ta": "கதைப்படம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "door / door leaf", "meaning_ta": "கதவு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "மேல்",
+      "transliteration": "mel",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "above / on top / upward", "meaning_ta": "மேலே", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "further / more / additional", "meaning_ta": "கூடுதல்", "pos": "adjective"},
+        {"sense_id": 3, "meaning_en": "body / skin surface", "meaning_ta": "உடல் மேற்பரப்பு", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "குரல்",
+      "transliteration": "kural",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "voice / sound", "meaning_ta": "குரல் ஒலி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "short verse / couplet", "meaning_ta": "குறள் பாடல்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "நாக்கு",
+      "transliteration": "naakku",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "tongue (body part)", "meaning_ta": "நாவு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "flame / tip of fire", "meaning_ta": "தீ நுனி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "needle / pointer", "meaning_ta": "ஊசி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "நெஞ்சு",
+      "transliteration": "nenju",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "chest / breast", "meaning_ta": "மார்பு", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "heart / mind / courage", "meaning_ta": "இதயம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "கடல்",
+      "transliteration": "kadal",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "sea / ocean", "meaning_ta": "சமுத்திரம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "vast / immense (poetic)", "meaning_ta": "மிகப்பெரியது", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "கழு",
+      "transliteration": "kazhu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to wash / to rinse / to clean", "meaning_ta": "கழுவுதல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "stake / pole / post", "meaning_ta": "கம்பம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "வண்டு",
+      "transliteration": "vandu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "bee / bumblebee", "meaning_ta": "தேனீ", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "beetle / insect", "meaning_ta": "வண்டு பூச்சி", "pos": "noun"},
+        {"sense_id": 3, "meaning_en": "vehicle / cart (archaic)", "meaning_ta": "வாகனம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "இடு",
+      "transliteration": "idu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to place / to put / to set", "meaning_ta": "வைக்க", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "to serve food", "meaning_ta": "பரிமாற", "pos": "verb"},
+        {"sense_id": 3, "meaning_en": "gap / space / interval", "meaning_ta": "இடைவெளி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "உழு",
+      "transliteration": "uzhu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to plough / to till the soil", "meaning_ta": "உழவு செய்ய", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "to work hard / to labour", "meaning_ta": "கஷ்டப்படுதல்", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "கொள்",
+      "transliteration": "kol",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to take / to receive / to accept", "meaning_ta": "எடுக்க", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "a type of grain / black-eyed pea", "meaning_ta": "தானியம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "ஏடு",
+      "transliteration": "edu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "book / manuscript / leaf", "meaning_ta": "புத்தகம்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "newspaper", "meaning_ta": "செய்தித்தாள்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "தண்ணீர்",
+      "transliteration": "thanneer",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "water / cold water", "meaning_ta": "நீர்", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "cool / cold", "meaning_ta": "குளிர்ச்சி", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "நில்",
+      "transliteration": "nil",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to stand / to stop", "meaning_ta": "நிறுத்துதல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "land / ground / earth", "meaning_ta": "நிலம்", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "காது",
+      "transliteration": "kaathu",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "ear (body part)", "meaning_ta": "செவி", "pos": "noun"},
+        {"sense_id": 2, "meaning_en": "earring / ear ornament", "meaning_ta": "காதணி", "pos": "noun"}
+      ]
+    },
+    {
+      "word": "குழை",
+      "transliteration": "kuzhai",
+      "senses": [
+        {"sense_id": 1, "meaning_en": "to become soft / to melt", "meaning_ta": "மிருதுவாதல்", "pos": "verb"},
+        {"sense_id": 2, "meaning_en": "earring / ear stud", "meaning_ta": "காதணி", "pos": "noun"}
+      ]
+    }
+  ]
+}
